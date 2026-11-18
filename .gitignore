@@ -1,0 +1,7 @@
+.DS_Store
+.ipynb_checkpoints/
+.venv/
+__pycache__/
+*.py[cod]
+Electronic_sales_Sep2023-Sep2024.csv
+funnel.csv
