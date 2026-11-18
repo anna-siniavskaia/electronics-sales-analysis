@@ -3,5 +3,7 @@
 .venv/
 __pycache__/
 *.py[cod]
+data/raw/*
+!data/raw/.gitkeep
 Electronic_sales_Sep2023-Sep2024.csv
 funnel.csv
