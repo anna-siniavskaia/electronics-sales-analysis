@@ -18,4 +18,4 @@
 
 ## Interpretation limits
 
-The file covers about one year. Later cohorts have less follow-up time, and the first and last calendar months may be incomplete. Cohort revenue is not a direct measure of retention. Without an order ID, duplicate-looking records cannot be verified. The notebook's outputs were removed for this portfolio copy; its calculations have not been re-executed against the source CSV here.
+The file covers about one year. Later cohorts have less follow-up time, and the first and last calendar months may be incomplete. Cohort revenue is not a direct measure of retention. Without an order ID, duplicate-looking records cannot be verified. The source CSV is not bundled with the project, so repository checks use a synthetic fixture. The full pipeline can be reproduced locally after downloading the documented source file.

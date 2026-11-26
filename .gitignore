@@ -5,5 +5,12 @@ __pycache__/
 *.py[cod]
 data/raw/*
 !data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+reports/tables/*
+!reports/tables/.gitkeep
+reports/figures/*
+!reports/figures/.gitkeep
+reports/summary.json
 Electronic_sales_Sep2023-Sep2024.csv
 funnel.csv
